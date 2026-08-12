@@ -7,7 +7,7 @@ Mock Node.js de l'API Facade Notif utilisé pour les tests automatisés Playwrig
 - Node.js
 - npm
 
-## Installation
+## Installation + lancer serveur
 
 ```bash
 npm install
